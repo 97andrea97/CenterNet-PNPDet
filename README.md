@@ -1,3 +1,6 @@
+This REPO has been copied from https://github.com/xingyizhou/CenterNet that is the official implementation of CenterNet. I am going to modify it in order to train it on other datasets and to obtain e new architecture: PNPDet https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_PNPDet_Efficient_Few-Shot_Detection_Without_Forgetting_via_Plug-and-Play_Sub-Networks_WACV_2021_paper.pdfs
+
+
 # Objects as Points
 Object detection, 3D detection, and pose estimation using center point detection:
 ![](readme/fig2.png)
